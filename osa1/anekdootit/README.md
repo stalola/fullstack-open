@@ -1,8 +1,5 @@
-# React + Vite
+# Anekdootit
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Ohjelmistotuotannossa tunnetaan lukematon määrä anekdootteja eli pieniä "onelinereita", jotka kiteyttävät alan ikuisia totuuksia.
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+"Anekdootit" on sovellus, jossa on nappi, jota painamalla sovellus näyttää satunnaisen ohjelmistotuotantoon liittyvän anekdootin. Näytettävää anekdoottia on mahdollista äänestää ja sovellus näyttää eniten ääniä saaneen anekdootin.
