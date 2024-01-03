@@ -1,5 +1,27 @@
 # Fullstack open
 
+## osa
+- [x] 2.1 kurssitiedot step6
+- [x] 2.2 kurssitiedot step7 
+- [x] 2.3* kurssitiedot step8
+- [x] 2.4 kurssitiedot step9
+- [x] 2.5 erillinen moduuli 
+- [ ] 2.6 puhelinluettelo step1
+- [ ] 2.7 puhelinluettelo step2
+- [ ] 2.8 puhelinluettelo step3
+- [ ] 2.9* puhelinluettelo step4
+- [ ] 2.10 puhelinluettelo step5
+- [ ] 2.11 puhelinluettelo step6
+- [ ] 2.12 puhelinluettelo step7
+- [ ] 2.13 puhelinluettelo step8
+- [ ] 2.14 puhelinluettelo step9
+- [ ] 2.15* puhelinluettelo step10 
+- [ ] 2.16 puhelinluettelo step11
+- [ ] 2.17* puhelinluettelo step12
+- [ ] 2.18* maiden tiedot, step1 
+- [ ] 2.19* maiden tiedot, step2
+- [ ] 2.20* maiden tiedot, step3
+
 ## osa1
 - [x] 1.1: kurssitiedot, step1
 - [x] 1.2: kurssitiedot, step2 
